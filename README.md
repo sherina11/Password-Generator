@@ -2,14 +2,14 @@
 
 This project generates a random password based on user input length.
 
-Features:
+# Features:
 - Random password generation
 - Uses alphabets, numbers, and symbols
 
-Technologies:
+# Technologies:
 - C Programming
 
-How to Run:
+## How to Run:
 1. Compile using gcc
 2. Run the program
 3. Enter password length
