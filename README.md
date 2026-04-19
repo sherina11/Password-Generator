@@ -15,4 +15,4 @@ How to Run:
 3. Enter password length
 
 ### Author:
-Sherina
+Raja Sherina
