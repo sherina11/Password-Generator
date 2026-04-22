@@ -15,4 +15,5 @@ This project generates a random password based on user input length.
 3. Enter password length
 
 ### Author:
-Raja Sherina
+Raja Sherina T
+CSE Department
